@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Tesla-Robots/static/css/main.9576612b.chunk.css",
+    "main.js": "/Tesla-Robots/static/js/main.c74b51f7.chunk.js",
+    "main.js.map": "/Tesla-Robots/static/js/main.c74b51f7.chunk.js.map",
+    "runtime-main.js": "/Tesla-Robots/static/js/runtime-main.c982ce70.js",
+    "runtime-main.js.map": "/Tesla-Robots/static/js/runtime-main.c982ce70.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Tesla-Robots/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.fcd927d6.chunk.js": "/Tesla-Robots/static/js/2.fcd927d6.chunk.js",
+    "static/js/2.fcd927d6.chunk.js.map": "/Tesla-Robots/static/js/2.fcd927d6.chunk.js.map",
+    "static/js/3.5400ab60.chunk.js": "/Tesla-Robots/static/js/3.5400ab60.chunk.js",
+    "static/js/3.5400ab60.chunk.js.map": "/Tesla-Robots/static/js/3.5400ab60.chunk.js.map",
+    "index.html": "/Tesla-Robots/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Tesla-Robots/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.9576612b.chunk.css.map": "/Tesla-Robots/static/css/main.9576612b.chunk.css.map",
+    "static/js/2.fcd927d6.chunk.js.LICENSE.txt": "/Tesla-Robots/static/js/2.fcd927d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Tesla-Robots/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c982ce70.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.fcd927d6.chunk.js",
+    "static/css/main.9576612b.chunk.css",
+    "static/js/main.c74b51f7.chunk.js"
+  ]
+}
